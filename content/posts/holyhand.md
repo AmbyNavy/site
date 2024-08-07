@@ -7,7 +7,7 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-This is some old stuff that I worked on for a DnD world that I was making. This lore is incomplete and the world mostly defunct now but I would like to revisit it someday. In the meantime, this is at least an example of some of my worldbuilding stuff that I actually remember to write down.
+This is some old stuff that I worked on for a DnD world that I was making. This lore is incomplete and hardly proofread. The world mostly defunct now but I would like to revisit it someday. In the meantime, this is at least an example of some of my worldbuilding stuff that I actually remember to write down.
 
 ---
 
