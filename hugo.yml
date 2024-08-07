@@ -25,7 +25,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/content/images/twitter-cards.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -83,6 +83,9 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/AmbyNavy"
+    - name: kofi
+      url: "https://ko-fi.com/ambynavy"
+
 
   analytics:
     google:
