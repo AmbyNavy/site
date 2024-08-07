@@ -19,10 +19,12 @@ The Holy Hand bear a secret which **none must ever know outside of them and the 
 
 Tarrenians are people of the earth and the land, nigh-extinct siblings of the nydarin, and ancestors to dwarf, goliath and orc alike. Previously ruled by the god Renak, the Awakening resulted in a terrible fate, causing them to go near-extinct. Now, only a few Tarrenian exist. People of strong, hearty stock, Tarrenians value strength, feats of endurance and being the loudest, most forceful voice on a battlefield, and as such many found themselves climbing mountains, forming fighter guilds and giving moving, aggressively emotional political speeches. Tarrenians also have a deep love for the underground and its vastness, and tend to find natural comfort and solitude beneath the surface. Tarrenians speak Tarren, a harsh but evocative language of strong sounds and concatenated words. Tarren has an extensive amount of adjectives, many which Common speakers would consider redundant and overlapping, but long history and cultural significance is tied to each one, for each is sparked by the different cultures as to feelings during the event when the word was made, and as such, emotional sentences can be conveyed complexly through the combination of multiple adjectives and subsequent affixing to a single word for "feel." Tarren is written in what became the modern Dwarvish alphabet.
 
-Example (in Common alphabet, as true to written as possible (a sentence is one "word" in tarren, so it is displayed as such here)):\
-Tan'raGrüllJan'raiKantBrek'naLeddSchlef-hem.\
-(lines added for reader clarity)\
-`Tan'ra|Grüll|Jan'rai|Brek'na|Ledd|Schlef - hem` - {I am} heartbroken at the loss of your brother, {I shall} truly pray for our finest warrior to have a comfortable rest.
+Example (in Common alphabet, as true to written as possible (a sentence is one "word" in tarren, so it is displayed as such here)): *Tan'raGrüllJan'raiKantBrek'naLeddSchlef-hem.*
+
+Now, with some breakup lines for reader clarity:\
+`Tan'ra|Grüll|Jan'rai|Brek'na|Ledd|Schlef - hem`
+
+This translates to **"{I am} heartbroken at the loss of your brother, {I shall} truly pray for our finest warrior to have a comfortable rest."**
 
 - Tan'ra - orc word for heartbreak, gut-wrenching sorrow. Comes from the day unanimously-loved orcish leader Tan, the Peak Carver committed a shock suicide after being driven to insanity by an ancient artefact found in the mountains.
 - Grüll - a goliath word for death in combat. Named after Grüll, the first goliath tarrenian to be recorded to die in battle, albeit honourably. Fell while protecting daughter from a dire-wolf horde. Respectful word which carries honour and weight - Grüll was found dead amongst the corpses of approximately one hundred dire wolves, and his daughter survived thanks to his efforts.
