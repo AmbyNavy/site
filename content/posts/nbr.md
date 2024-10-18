@@ -44,6 +44,7 @@ This version of this game is ***HIGHLY VOLATILE!*** It is unlikely that any of t
 ## The Overarching Tenets
 
 *The following overarching tenets apply to all of this game. Refer back to here first if you ever feel like information or context is missing.*
+
 0. **Adapt the Functional Rules to your needs.** It’s recommended to experience this game as provided so you understand what makes it tick, but once you do, change the numbers of what you dont like. Drop in your own health system. Remove the half-level bonus if you don’t like it. Whatever you do with the Functional Rules, make sure it fosters the most fun at your table and fits the goal of the fantasy you want to experience and the story you want to tell with your playgroup. **This rule is the only one you cannot change.**
 
 1. This game is designed to be modified by features, items, tags and traits. As such, if any other game element, such as a feature, contradicts the Functional Rules, treat the contradicting element as the correct ruling for that situation.
