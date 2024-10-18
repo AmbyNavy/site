@@ -1,4 +1,11 @@
-# Navy Blue Roleplay Functional Rules V.0.1.0 - 'Diamonds Are Forever' Edition
+---
+title: "Navy Blue Roleplay Functional Rules V.0.1.0 - 'Diamonds Are Forever' Edition"
+date: "2024-10-19"
+description: "TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST"
+tags: ["ttrpg", "game design", "nbr"]
+ShowToc: false
+ShowBreadCrumbs: false
+---
 # Credits
 **Game Lead:** Amber Macfarlane
 **Design:** Vermillion, Airegore
